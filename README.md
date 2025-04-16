@@ -1,8 +1,7 @@
 # pizza-sales-sql-analysis
 # 🍕 Smart SQL Solutions
 
-Welcome to **Smart SQL Solutions**, a repository showcasing real-world business intelligence and data analysis projects using Microsoft SQL Server. This project dives deep into a **Pizza Sales Dataset**, demonstrating how structured queries can uncover valuable insights that drive business decisions.
-
+****Welcome to **Pizza Sales SQL Analysis**, a focused data analytics project using Microsoft SQL Server. This repository explores a real-world **pizza sales dataset**, showcasing how structured SQL queries can uncover key business insights and drive data-informed decision-making.****
 ---
 
 ## 📊 Project: Pizza Sales Data Analysis
